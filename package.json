@@ -9,5 +9,5 @@
   "dependencies": {
     "discord.js": "^14.14.1",
     "discord-html-transcripts": "^3.2.5"
-  },
-  "eng
+  }
+}

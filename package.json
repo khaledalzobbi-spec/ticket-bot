@@ -7,9 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js": "^14.14.1"
+    "discord.js": "^14.14.1",
+    "discord-html-transcripts": "^3.2.5"
   },
-  "engines": {
-    "node": ">=18.0.0"
-  }
-}
+  "eng
